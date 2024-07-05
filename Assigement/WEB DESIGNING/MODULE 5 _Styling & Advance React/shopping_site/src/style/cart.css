@@ -1,0 +1,21 @@
+.ctitle h6 a{
+
+    color: #253D4E;
+    margin: 15px;
+    font-size: 15px;
+
+}
+.cart{
+    display: flex;
+}
+
+
+.ctitle{
+    box-sizing: border-box;
+    /* border-color:2px solid brown; */
+    /* height: 180px;
+    width: 145px; */
+    width: 145px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.452);
+
+}
